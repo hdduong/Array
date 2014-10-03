@@ -1,8 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Median of Sorted Arrays", "..\Median of Sorted Arrays\Median of Sorted Arrays.vcxproj", "{80B29FC1-C60E-433A-89D3-B91E3344A956}"
-EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ArrayRotation", "ArrayRotation\ArrayRotation.vcxproj", "{A2D44BB4-83DE-4E7F-82AD-07D1F39E0462}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Max Sum No Adjacant", "Max Sum No Adjacant\Max Sum No Adjacant.vcxproj", "{00AB8EB1-F038-406A-958D-92410DE9CCC6}"
@@ -13,10 +11,6 @@ Global
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{80B29FC1-C60E-433A-89D3-B91E3344A956}.Debug|Win32.ActiveCfg = Debug|Win32
-		{80B29FC1-C60E-433A-89D3-B91E3344A956}.Debug|Win32.Build.0 = Debug|Win32
-		{80B29FC1-C60E-433A-89D3-B91E3344A956}.Release|Win32.ActiveCfg = Release|Win32
-		{80B29FC1-C60E-433A-89D3-B91E3344A956}.Release|Win32.Build.0 = Release|Win32
 		{A2D44BB4-83DE-4E7F-82AD-07D1F39E0462}.Debug|Win32.ActiveCfg = Debug|Win32
 		{A2D44BB4-83DE-4E7F-82AD-07D1F39E0462}.Debug|Win32.Build.0 = Debug|Win32
 		{A2D44BB4-83DE-4E7F-82AD-07D1F39E0462}.Release|Win32.ActiveCfg = Release|Win32
