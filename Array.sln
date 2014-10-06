@@ -17,6 +17,12 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Segregate 0 and 1", "Segreg
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "k largest element", "k largest element\k largest element.vcxproj", "{F7997303-006B-43B1-9070-B9F47FCB58AF}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Minimum length Unsorted Subarray", "Minimum length Unsorted Subarray\Minimum length Unsorted Subarray.vcxproj", "{CD8C0FA0-4243-42B6-9D38-187D35F07727}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Rotate 90", "Rotate 90\Rotate 90.vcxproj", "{2A447877-0025-4416-8467-C1A5E6DB4A37}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Count Occurrences Logn Sorted Array", "Count Occurrences Logn Sorted Array\Count Occurrences Logn Sorted Array.vcxproj", "{5CA73BBE-F423-4DD1-93E0-CD97875C5125}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -55,6 +61,18 @@ Global
 		{F7997303-006B-43B1-9070-B9F47FCB58AF}.Debug|Win32.Build.0 = Debug|Win32
 		{F7997303-006B-43B1-9070-B9F47FCB58AF}.Release|Win32.ActiveCfg = Release|Win32
 		{F7997303-006B-43B1-9070-B9F47FCB58AF}.Release|Win32.Build.0 = Release|Win32
+		{CD8C0FA0-4243-42B6-9D38-187D35F07727}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CD8C0FA0-4243-42B6-9D38-187D35F07727}.Debug|Win32.Build.0 = Debug|Win32
+		{CD8C0FA0-4243-42B6-9D38-187D35F07727}.Release|Win32.ActiveCfg = Release|Win32
+		{CD8C0FA0-4243-42B6-9D38-187D35F07727}.Release|Win32.Build.0 = Release|Win32
+		{2A447877-0025-4416-8467-C1A5E6DB4A37}.Debug|Win32.ActiveCfg = Debug|Win32
+		{2A447877-0025-4416-8467-C1A5E6DB4A37}.Debug|Win32.Build.0 = Debug|Win32
+		{2A447877-0025-4416-8467-C1A5E6DB4A37}.Release|Win32.ActiveCfg = Release|Win32
+		{2A447877-0025-4416-8467-C1A5E6DB4A37}.Release|Win32.Build.0 = Release|Win32
+		{5CA73BBE-F423-4DD1-93E0-CD97875C5125}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5CA73BBE-F423-4DD1-93E0-CD97875C5125}.Debug|Win32.Build.0 = Debug|Win32
+		{5CA73BBE-F423-4DD1-93E0-CD97875C5125}.Release|Win32.ActiveCfg = Release|Win32
+		{5CA73BBE-F423-4DD1-93E0-CD97875C5125}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
